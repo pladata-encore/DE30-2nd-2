@@ -11,3 +11,5 @@
 
 ## 🖨️ Data Architecture
 ![image (9)](https://github.com/pladata-encore/DE30-2nd-2/assets/163947687/2f5cd753-64ee-4d5b-9343-59cb4b1ae8f9)
+
+https://1drv.ms/p/s!AhrLk-VRNuHhxmGlbqwCjniSVzBl?e=kWfIgC
